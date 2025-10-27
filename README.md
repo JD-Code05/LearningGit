@@ -2,7 +2,7 @@
 Here I put my notes on how to Git  
 ## Part 1 Introducion Sequence:  
 A nicely paced introduction to the majority of git commands:  
-- P1-1: Introducion to Git Commits
+### P1-1: Introducion to Git Commits
 What is commit:  
 -  records a snapshot of all the (tracked) files in your directory.  
 - A giant copy and paste, but even better!  
